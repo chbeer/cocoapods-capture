@@ -1,0 +1,4 @@
+module SKTCapture {
+    umbrella header "SKTCapture.h"
+    export *
+}
