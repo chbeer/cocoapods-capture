@@ -10,7 +10,7 @@ let package = Package(
     products: [
         .library(
             name: "SKTCapture",
-            targets: ["SKTCapture"]),
+            targets: ["SKTCapture", "CaptureHelper"]),
     ],
     dependencies: [
     ],
